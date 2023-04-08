@@ -1,0 +1,18 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\bin\Debug\net6.0-windows\Odaberi trougao sa liste.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\bin\Debug\net6.0-windows\Odaberi trougao sa liste.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\bin\Debug\net6.0-windows\Odaberi trougao sa liste.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\bin\Debug\net6.0-windows\Odaberi trougao sa liste.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\bin\Debug\net6.0-windows\Odaberi trougao sa liste.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi_trougao_sa_liste.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\refint\Odaberi trougao sa liste.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi trougao sa liste.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\ref\Odaberi trougao sa liste.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Odaberi trougao sa liste\Odaberi trougao sa liste\obj\Debug\net6.0-windows\Odaberi_trougao_sa_liste.Properties.Resources.resources
